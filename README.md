@@ -1,4 +1,5 @@
 Muhammad Ikhlas | Full Stack Developer
+
 👋 About Me
 
 I am a passionate and results-driven **Full Stack Developer** currently pursuing a Bachelor’s in Computer Science. With hands-on experience in modern web technologies, I specialize in building responsive, scalable, and user-centric applications from end to end. My expertise spans **React.js, Next.js, Tailwind CSS, Node.js (Express), MongoDB, PostgreSQL, and RESTful APIs**, combined with a strong focus on AI model fine-tuning.
