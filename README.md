@@ -1,8 +1,14 @@
 Muhammad Ikhlas | Full Stack Developer
 
-👋 About Me
+👋 About Me (<p>
+  <a href="https://muhammad-ikhlas-dev.github.io/" style="text-decoration:none;">
+    <span style="background-color:#2f80ed; color:white; padding:8px 16px; font-weight:bold; letter-spacing:2px; border-radius:6px;">
+      PORTFOLIO
+    </span>
+  </a>
+</p>)
 
-I am a passionate and results-driven **Full Stack Developer** currently pursuing a Bachelor’s in Computer Science. With hands-on experience in modern web technologies, I specialize in building responsive, scalable, and user-centric applications from end to end. My expertise spans **React.js, Next.js, Tailwind CSS, Node.js (Express), MongoDB, PostgreSQL, and RESTful APIs**, combined with a strong focus on AI model fine-tuning.
+I am a passionate and results-driven **Full Stack Developer** currently pursuing a Bachelor’s in Computer Science with above **3.6** CGPA. With hands-on experience in modern web technologies, I specialize in building responsive, scalable, and user-centric applications from end to end. My expertise spans **React.js, Next.js, Tailwind CSS, Node.js (Express), MongoDB, PostgreSQL, and RESTful APIs**, combined with a strong focus on AI model fine-tuning.
 
 I thrive on solving complex problems, delivering clean code, and turning ideas into production-ready solutions. With 2+ years of experience conducting technical interviews with US clients, I also bring excellent communication skills and a client-first mindset.
 
@@ -56,4 +62,18 @@ I’m always excited to collaborate on interesting projects, discuss new opportu
 
 📫 **Contact**  
 +92 323 9359060 | mikhlas78690@gmail.com  
-[GitHub]() | [Portfolio](https://muhammad-ikhlas-dev.github.io/) | [LinkedIn](https://www.linkedin.com/in/muhammad-ikhlas-/)
+
+<p>
+  <a href="https://www.linkedin.com/in/muhammad-ikhlas-/" style="text-decoration:none;">
+    <span style="background-color:#2f80ed; color:white; padding:8px 16px; font-weight:bold; letter-spacing:2px; border-radius:6px;">
+      LinkedIn
+    </span>
+  </a>
+</p>
+<p>
+  <a href="https://muhammad-ikhlas-dev.github.io/" style="text-decoration:none;">
+    <span style="background-color:#2f80ed; color:white; padding:8px 16px; font-weight:bold; letter-spacing:2px; border-radius:6px;">
+      PORTFOLIO
+    </span>
+  </a>
+</p>
