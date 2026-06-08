@@ -1,6 +1,6 @@
 Muhammad Ikhlas | Full Stack Developer
 
-👋 About Me ([My Portfolio](https://www.linkedin.com/in/muhammad-ikhlas-/))
+👋 About Me ([My Portfolio](https://muhammad-ikhlas-dev.github.io/))
 
 I am a passionate and results-driven **Full Stack Developer** currently pursuing a Bachelor’s in Computer Science with above **3.6** CGPA. With hands-on experience in modern web technologies, I specialize in building responsive, scalable, and user-centric applications from end to end. My expertise spans **React.js, Next.js, Tailwind CSS, Node.js (Express), MongoDB, PostgreSQL, and RESTful APIs**, combined with a strong focus on AI model fine-tuning.
 
@@ -56,4 +56,4 @@ I’m always excited to collaborate on interesting projects, discuss new opportu
 
 📫 **Contact**  
 +92 323 9359060 | mikhlas78690@gmail.com  
-[GitHub](https://muhammad-ikhlas-dev.github.io/) | [Portfolio](https://www.linkedin.com/in/muhammad-ikhlas-/) | [LinkedIn](https://www.linkedin.com/in/muhammad-ikhlas-/)
+[GitHub](https://github.com/Muhammad-Ikhlas-dev) | [Portfolio](https://www.linkedin.com/in/muhammad-ikhlas-/) | [LinkedIn](https://www.linkedin.com/in/muhammad-ikhlas-/)
